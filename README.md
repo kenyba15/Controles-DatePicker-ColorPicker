@@ -6,6 +6,11 @@ Permite al usuario seleccionar una fecha escribiendo en un campo de texto o medi
 ## ColorPicker
 Este control permite a el usuario seleccionar un color ya sea desde una paleta estandar de colores con un simple click o definir un color elllos mismos.
 
+## Button
+Se creo un boton de confirmacion, el cual al presionar mostrara en consola los valores tanto de DatePicker y de ColorPicker
+
+## Vbox
+Se uso para poder alinear todos y cada uno de los botones en una sola columna vertical
 
 ![image](https://github.com/kenyba15/Controles-DatePicker-ColorPicker/assets/168501498/ec8eb25a-b03c-4a0c-bfe4-1bd890e06b34)
 ### Muestra del programa apenas ejecutado
