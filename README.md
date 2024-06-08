@@ -19,5 +19,5 @@ Se uso para poder alinear todos y cada uno de los botones en una sola columna ve
 ![image](https://github.com/kenyba15/Controles-DatePicker-ColorPicker/assets/168501498/c550f83a-20aa-4eb1-a971-e99b21a83277)
 ### Muestra de la consola al darle a confirmar
 
-##CODIGO
+## CODIGO
 ![image](https://github.com/kenyba15/Controles-DatePicker-ColorPicker/assets/168501498/a2966448-4f72-4167-aa6e-c97dc444a4ac)
